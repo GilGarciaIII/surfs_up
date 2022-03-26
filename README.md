@@ -24,3 +24,5 @@ Temperature results for June & December
 --
 As i look over the outcome, December weather is up and down and fluctuates more than in June. I beleive it is still ice cream appropriate weather even though it is winter time. So the shop can be a year round business and can stay open opposed to being a seasonal shop. I think depnding on the time of year, its going to be more realestic surfung weather in the summer time, but in the winter time maybe not surfing weather but still beach weather in December will still keep the shop open for customers on a yearly base. 
 
+<img width="509" alt="summary_stats_df" src="https://user-images.githubusercontent.com/88943257/160232234-7086a30e-b2af-4c97-9ed9-e0f5075432f5.png">
+
